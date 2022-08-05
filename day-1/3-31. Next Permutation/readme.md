@@ -25,4 +25,12 @@
 
 - Space Complexity: O(1)
 
+## Copy Notes
+
+![1](https://github.com/sidsri1999/striver-sde-sheet/blob/main/day-1/3-31.%20Next%20Permutation/images/1.jpg)
+![2](https://github.com/sidsri1999/striver-sde-sheet/blob/main/day-1/3-31.%20Next%20Permutation/images/2.jpg)
+![3](https://github.com/sidsri1999/striver-sde-sheet/blob/main/day-1/3-31.%20Next%20Permutation/images/3.jpg)
+![4](https://github.com/sidsri1999/striver-sde-sheet/blob/main/day-1/3-31.%20Next%20Permutation/images/4.jpg)
+
+
 
